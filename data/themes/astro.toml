@@ -1,0 +1,18 @@
+# Theme metadata
+name = "astro"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "#ffd700"
+
+# Menu
+menu_primary = "#1d1135"
+menu_text = "#0c164f"
+menu_text_active = "#ffd700"
+menu_title = "#0c164f"
+
+# Home sections
+home_section_odd = "#1d1135"
+home_section_even = "#0c164f"

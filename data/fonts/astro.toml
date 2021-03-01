@@ -1,0 +1,11 @@
+# Font style metadata
+name = "astro"
+
+# Optional Google font URL
+google_fonts = "Fredoka+One|Space+Mono"
+
+# Font families
+heading_font = "Fredoka One"
+body_font = "Space Mono"
+nav_font = "Fredoka One"
+mono_font = "Space Mono"
